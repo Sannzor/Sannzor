@@ -35,7 +35,7 @@ With over **6 years of experience** in Minecraft development, I've built, mainta
 ## 📫 Let's Connect
 - 💬 Always up for plugin ideas, code talks, or server collabs
 - 🌐 Find me here: [GitHub](https://github.com/PingLaggerYT)
-- 🌐 Discord: discord.aizsargs.com
+- 🌐 Join the Discord: [Discord](https://discord.aizsargs.com)
 
 ---
 

@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm PingLagger!
+# 👋 Hey there, I'm Sannzor!
 
 🎮 Minecraft Plugin Developer | 🧠 Problem Solver | 🔧 Code Tinkerer
 

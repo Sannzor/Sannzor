@@ -14,7 +14,7 @@ With over **6 years of experience** in Minecraft development, I've built, mainta
 ---
 
 ## 🛠️ Tech Stack
-- **Languages:** Java, HTML, PHP, JavaScript, Lua, Python  
+- **Languages:** Java, HTML, PHP, JavaScript, Lua, Python, TypeScript  
 - **Frameworks & Tools:** Bukkit / Spigot / Paper API, MySQL, MongoDB, JSON, NBT handling  
 - **Game Dev Skills:** Plugin design, server optimization, minigame logic, custom GUI systems
 

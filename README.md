@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **Sannzor**
+# 👋 Hey, I'm **PingLagger**
 
 🎮 **Minecraft Plugin Developer** | ⚙️ **Backend Engineer** | 🧠 **Performance Specialist**
 
@@ -91,14 +91,14 @@ Over time, I expanded into **a wide range of gamemodes**, creating everything fr
 I actively publish open-source plugins, frameworks, and libraries here on GitHub.  
 All repositories are **documented, optimized, and production-ready** for real Minecraft servers.
 
-> 🔗 [github.com/Sannzor](https://github.com/Sannzor)
+> 🔗 [github.com/PingLagger](https://github.com/Sannzor)
 
 ---
 
 ## 📫 Let’s Connect
 
 - 💬 **Discord:** `pinglagger`  
-- 🌐 **GitHub:** [Sannzor](https://github.com/Sannzor)  
+- 🌐 **GitHub:** [PingLagger](https://github.com/Sannzor)  
 - 📁 **Portfolio Website:** *coming soon*  
 
 ---

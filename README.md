@@ -1,4 +1,4 @@
-# 👋 Hey, I'm **PingLagger**
+# 👋 Hey, I'm **Sannzor**
 
 🎮 **Minecraft Plugin Developer** | ⚙️ **Backend Engineer** | 🧠 **Performance Specialist**
 

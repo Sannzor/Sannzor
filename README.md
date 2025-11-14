@@ -97,8 +97,8 @@ All repositories are **documented, optimized, and production-ready** for real Mi
 
 ## 📫 Let’s Connect
 
-- 💬 **Discord:** `pinglagger`  
-- 🌐 **GitHub:** [PingLagger](https://github.com/Sannzor)  
+- 💬 **Discord:** `sannzor`  
+- 🌐 **GitHub:** [Sannzor](https://github.com/Sannzor)  
 - 📁 **Portfolio Website:** *coming soon*  
 
 ---
